@@ -1,2 +1,2 @@
 # Confidential-document-repository-tool
-This work designs and implements a confidential file repository tool that enables users to store and browse files encrypted through a graphical user interface (GUI). Legitimate users can add, delete, browse and view file contents, while illegal users can only browse the file list and will see deceptive content when viewing file contents.
+本作品设计并实现了一个保密文件库工具，通过图形用户界面（GUI）实现用户对文件的加密存储和浏览。合法用户可以添加、删除、浏览和查看文件内容，非法用户则只能浏览文件列表，并且在查看文件内容时会看到欺骗性的内容。
